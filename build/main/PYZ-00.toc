@@ -1,0 +1,1597 @@
+('C:\\Users\\Hoang Nguyen\\Desktop\\CPU\\build\\main\\PYZ-00.pyz',
+ [('ssl',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ssl.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('ntpath',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\string.py',
+   'PYMODULE'),
+  ('genericpath',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._common',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_common.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\random.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\statistics.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\fractions.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\numbers.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\signal.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\selectors.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\queue.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\runpy.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\secrets.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_compression.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\netrc.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\getopt.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\quopri.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\optparse.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\typing.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tty.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\token.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\cmd.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ast.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bisect.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\configparser.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\csv.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('struct',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\struct.py',
+   'PYMODULE'),
+  ('posixpath',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bz2.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('stat',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\stat.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\gettext.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\base64.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('os',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\os.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\datetime.py',
+   'PYMODULE'),
+  ('psutil',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\psutil\\__init__.py',
+   'PYMODULE'),
+  ('psutil._psaix',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\psutil\\_psaix.py',
+   'PYMODULE'),
+  ('psutil._pssunos',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\psutil\\_pssunos.py',
+   'PYMODULE'),
+  ('psutil._psbsd',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\psutil\\_psbsd.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('psutil._psosx',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\psutil\\_psosx.py',
+   'PYMODULE'),
+  ('psutil._pswindows',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\psutil\\_pswindows.py',
+   'PYMODULE'),
+  ('psutil._pslinux',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\psutil\\_pslinux.py',
+   'PYMODULE'),
+  ('psutil._psposix',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\psutil\\_psposix.py',
+   'PYMODULE'),
+  ('psutil._compat',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\psutil\\_compat.py',
+   'PYMODULE'),
+  ('psutil._common',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\psutil\\_common.py',
+   'PYMODULE'),
+  ('curses',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\curses\\__init__.py',
+   'PYMODULE'),
+  ('curses.has_key',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\curses\\has_key.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\socket.py',
+   'PYMODULE'),
+  ('requests',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('requests.api',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('idna',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.core',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('urllib3.packages.six',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\packages\\six.py',
+   'PYMODULE'),
+  ('urllib3.packages',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\packages\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.ssl_match_hostname',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.ssl_match_hostname._implementation',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\_implementation.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.queue',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\util\\queue.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('urllib3.contrib._appengine_environ',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\contrib\\_appengine_environ.py',
+   'PYMODULE'),
+  ('urllib3.request',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\request.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.models',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('certifi',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\resources.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('cryptography',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl._conditional',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\_conditional.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl.binding',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\binding.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\bindings\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.exceptions',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\exceptions.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.dsa',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\dsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.utils',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\utils.py',
+   'PYMODULE'),
+  ('cryptography.hazmat._der',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\_der.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.dsa',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\dsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._serialization',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\_serialization.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.rsa',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\rsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._asymmetric',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\_asymmetric.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ed25519',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ed25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ec',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ec.py',
+   'PYMODULE'),
+  ('cryptography.hazmat._oid',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\_oid.py',
+   'PYMODULE'),
+  ('cryptography.x509.oid',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\x509\\oid.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.dh',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\dh.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.pkcs7',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\pkcs7.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.ssh',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\ssh.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.modes',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\modes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._cipheralgorithm',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\_cipheralgorithm.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.algorithms',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\algorithms.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.base',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\base.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.base',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\base.py',
+   'PYMODULE'),
+  ('cryptography.hazmat._types',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\_types.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ed448',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ed448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.hashes',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\hashes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.constant_time',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\constant_time.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.utils',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\utils.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ciphers',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ciphers.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.aead',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\aead.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.aead',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\aead.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ec',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ec.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.poly1305',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\poly1305.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.hashes',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\hashes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.x509',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\x509.py',
+   'PYMODULE'),
+  ('cryptography.x509.name',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\x509\\name.py',
+   'PYMODULE'),
+  ('cryptography.x509.base',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\x509\\base.py',
+   'PYMODULE'),
+  ('cryptography.x509.extensions',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\x509\\extensions.py',
+   'PYMODULE'),
+  ('cryptography.x509.general_name',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\x509\\general_name.py',
+   'PYMODULE'),
+  ('cryptography.x509.certificate_transparency',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\x509\\certificate_transparency.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.x25519',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\x25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.x25519',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\x25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.hmac',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\hmac.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.x448',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\x448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.x448',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\x448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ocsp',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ocsp.py',
+   'PYMODULE'),
+  ('cryptography.x509.ocsp',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\x509\\ocsp.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ed448',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ed448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.decode_asn1',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\decode_asn1.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.cmac',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\cmac.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.dh',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\dh.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ed25519',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ed25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.interfaces',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\interfaces.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.backend',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\backend.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.kdf.scrypt',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\kdf\\scrypt.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.kdf',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\kdf\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.padding',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\padding.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.rsa',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\rsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.encode_asn1',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\encode_asn1.py',
+   'PYMODULE'),
+  ('cryptography.x509',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\x509\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.utils',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\utils.py',
+   'PYMODULE'),
+  ('cryptography.__about__',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\cryptography\\__about__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('OpenSSL.crypto',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\OpenSSL\\crypto.py',
+   'PYMODULE'),
+  ('OpenSSL',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\OpenSSL\\__init__.py',
+   'PYMODULE'),
+  ('OpenSSL.version',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\OpenSSL\\version.py',
+   'PYMODULE'),
+  ('OpenSSL._util',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\OpenSSL\\_util.py',
+   'PYMODULE'),
+  ('six',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports.makefile',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\packages\\backports\\makefile.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\packages\\backports\\__init__.py',
+   'PYMODULE'),
+  ('OpenSSL.SSL',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\OpenSSL\\SSL.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\charset_normalizer\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.models',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\charset_normalizer\\models.py',
+   'PYMODULE'),
+  ('charset_normalizer.cd',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\charset_normalizer\\cd.py',
+   'PYMODULE'),
+  ('charset_normalizer.assets',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\charset_normalizer\\assets\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.utils',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\charset_normalizer\\utils.py',
+   'PYMODULE'),
+  ('charset_normalizer.md',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\charset_normalizer\\md.py',
+   'PYMODULE'),
+  ('charset_normalizer.constant',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\charset_normalizer\\constant.py',
+   'PYMODULE'),
+  ('charset_normalizer.version',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\charset_normalizer\\version.py',
+   'PYMODULE'),
+  ('charset_normalizer.legacy',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\charset_normalizer\\legacy.py',
+   'PYMODULE'),
+  ('charset_normalizer.api',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\charset_normalizer\\api.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3',
+   'C:\\Users\\Hoang '
+   'Nguyen\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE')])
